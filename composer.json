@@ -2,7 +2,11 @@
     "name": "studiobonito/silverstripe-inuit-forms",
     "description": "Provide flexible form templates for SilverStripe CMS inspired by inuitcss.",
     "type": "silverstripe-module",
-    "keywords": ["silverstripe", "forms", "inuitcss"],
+    "keywords": [
+        "silverstripe",
+        "forms",
+        "inuitcss"
+    ],
     "license": "BSD-2-Clause",
     "authors": [
         {
@@ -17,5 +21,9 @@
         "psr-4": {
             "StudioBonito\\SilverStripe\\Inuit\\Forms\\": "src/"
         }
-    }
+    },
+    "support": {
+        "issues": "https://github.com/studiobonito/silverstripe-inuit-forms/issues"
+    },
+    "homepage": "https://github.com/studiobonito/silverstripe-inuit-forms"
 }
